@@ -1,6 +1,7 @@
 # Lasagnes aux épinards
 
 ## Ingrédients
+
 - 500 g d'épinards frais (ou 300 g surgelés)
 - 250 g de ricotta
 - 100 g de parmesan râpé
@@ -13,6 +14,7 @@
 - Noix de muscade (optionnel)
 
 ## Préparation
+
 1. Faites revenir l’oignon et l’ail émincés dans l’huile d’olive.
 2. Ajoutez les épinards et laissez réduire 5 minutes.
 3. Hors du feu, incorporez la ricotta, du sel, du poivre et une pincée de muscade.
@@ -23,8 +25,14 @@
 8. Enfournez 30 minutes à 180°C.
 
 ## Temps
+
 - Préparation : 20 minutes
 - Cuisson : 30 minutes
 
 ## Auteur
+
 Mathis
+
+## Likes
+
+Mathis : ⭐⭐⭐⭐⭐
